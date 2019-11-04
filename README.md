@@ -5,3 +5,4 @@ Script for reading PET/CT data in .nrrd format, parsing .nrrd headers and croppi
 * Python 3.6
 * NumPy 1.15.x
 * Pynrrd 0.4.0
+* (optional) matplotlib 3.1.1
